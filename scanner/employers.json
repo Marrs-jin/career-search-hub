@@ -1,0 +1,9 @@
+{
+ "boards": [
+  {"name": "Civis Analytics", "ats": "greenhouse", "slug": "civisanalytics"},
+  {"name": "Sprout Social", "ats": "greenhouse", "slug": "sproutsocial"},
+  {"name": "project44", "ats": "greenhouse", "slug": "project44"},
+  {"name": "Relativity", "ats": "greenhouse", "slug": "relativity"},
+  {"name": "Cresta", "ats": "greenhouse", "slug": "cresta"}
+ ]
+}

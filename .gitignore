@@ -1,0 +1,9 @@
+# personal data: never commit
+data/*
+!data/.gitkeep
+CUSTOMIZATIONS.md
+scanner/jobs_state.json
+scanner/rejected.json
+scanner/tracker.xlsx
+__pycache__/
+*.pyc
